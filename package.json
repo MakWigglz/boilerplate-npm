@@ -5,8 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["mongoose", "much more"],
   "author": "Ahmad Makki",
   "license": "ISC",
-  "description": "practice express backend JS application served on http"
+  "description": "practice express JS application on http"
 }
